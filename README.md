@@ -1,6 +1,6 @@
-# contador_de_pessoas
+# contado
 
-A new Flutter project.
+Projeto simples para o inicio do estudo sobre flutter.
 
 ## Getting Started
 

@@ -2,7 +2,13 @@
 
 Projeto simples para o inicio do estudo sobre flutter.
 
-## Getting Started
+##Sobre
+O projeto encrementa 1 ou decrementa -1 quando clica no botão.
+Quando está menor que 0, ele informa: "Falta laranja", quando está menor ou igual a 10 ele informa "Assim esta melhor.", já quando esta maior que 10 ele informa "Assim está melhor". 
+Obs: Frases em referencia ao campeão Gangplank - lol.
+
+
+### Getting Started
 
 This project is a starting point for a Flutter application.
 

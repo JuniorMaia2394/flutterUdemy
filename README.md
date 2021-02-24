@@ -1,4 +1,4 @@
-# contado
+# contador
 
 Projeto simples para o inicio do estudo sobre flutter.
 

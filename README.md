@@ -1,11 +1,6 @@
-# Contador
+# CursoUdemy
 
-Projeto simples para o inicio do estudo sobre flutter.
-
-## Sobre
-O projeto incrementa 1 ou decrementa -1 quando clica no botão.
-<p>Quando está menor que 0, ele informa: "Falta laranja", quando está menor ou igual a 10 ele informa "Assim esta melhor.", já quando esta maior que 10 ele informa "Assim está melhor". 
-<p>Obs: Frases em referencia ao campeão Gangplank - lol.
+Projetos simples para o inicio do estudo sobre flutter.
 
 
 ### Getting Started
